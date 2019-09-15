@@ -1,4 +1,7 @@
 # Bigmart-Product-Sales-Prediction
+
+![BigMart](images/BigMart.jpg)
+
 Predict the impact of other factors on sales of a particular product in a particular Big mart store. Through the analysis, I am planning to predict the impact of other factors on sales of a particular product in a particular store. The train file will be used to explore the data and train the model. The model will be applied on test data in the test file and model performance will be evaluated.
 
 ## Getting Started
