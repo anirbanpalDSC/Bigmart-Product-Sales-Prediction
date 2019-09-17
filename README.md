@@ -42,10 +42,10 @@ This section will be updated as the project is developed.
 * Data Acquisition - done
 * EDA - done
 * Data Cleansing - done
-* Feature Engineering - wip
-* Model Building - pending
-* Model evaluation - pending
-* Presentation - pending
+* Feature Engineering - done
+* Model Building - done
+* Model evaluation - done
+* Presentation and paper writing - done
 
 ## Versioning
 [(Back to top)](#table-of-contents)
