@@ -28,7 +28,7 @@ To execute this project, you will need the following applications -
 
 Anaconda distribution alone should be enough. Find it [here](https://www.anaconda.com/distribution/)
 
-### Installing
+### Installation
 [(Back to top)](#table-of-contents)
 This particular project does not require any installation other than the required softwares mentioned above.
 
